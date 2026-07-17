@@ -1,4 +1,4 @@
-# 📈 Financial News Topic Modeling and Sentiment Analysis using Transformer-based NLP
+# 📈 Financial News Topic Modeling and Sentiment Analysis using Machine Learning & Transformer Models
 
 > End-to-end Natural Language Processing pipeline for financial news analysis using classical Machine Learning and Transformer-based Deep Learning models.
 
